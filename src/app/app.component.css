@@ -1,0 +1,27 @@
+body{
+    font-family: 'Open Sans', sans-serif; font-weight: 300
+}
+thead
+{
+    background-color: dodgerblue;
+    color: white;
+   
+}
+td{
+    text-align: center;
+}
+th{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    font-weight: bold;
+}
+table
+{
+    box-shadow: 7px 7px 7px 7px lightgrey;
+}
+.panel
+{
+    box-shadow: 7px 7px 7px 7px lightgrey;
+}
